@@ -1,0 +1,20 @@
+UC Irvine Machine Learning Repository (Toy, kolay)
+https://archive.ics.uci.edu/ml/index.php
+
+Kaggle's datasets:
+https://www.kaggle.com/datasets
+
+Amazon's AWS datasets:
+https://registry.opendata.aws/
+
+Meta portals (they list open data portals):
+http://dataportals.org/
+https://opendatamonitor.eu
+https://www.quandl.com/
+https://skymind.ai/wiki/open-datasets
+
+Other popular open data repositories:
+Quora.com questions
+Datasets subreddit
+
+
